@@ -11,7 +11,7 @@ Min WP Version: 4.4
 Max WP Version: 4.5
 */
 
-// search and replace 'baseplugin' with your own plugins keyword
+// search and replace 'baseplugin' with your own WordPress plugins keyword
 
 /* registering activation and uninstall hooks */
 register_activation_hook( __FILE__, array( 'baseplugin_main', 'activation' ) );
