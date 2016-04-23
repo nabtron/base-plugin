@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: plugin base
+Plugin Name: plugin base 
 Plugin URI: http://nabtron.com/base-plugin/
 Description: plugin base to be modified
 Tags: show, base, plugin, options
@@ -19,8 +19,6 @@ register_uninstall_hook( __FILE__, array('pluginbase_main', 'uninstall') );
 
 if (!class_exists('pluginbase_main')) {
 	class pluginbase_main {
-
-		private $show_wp_server_status;
 
 		// PHP 4 Compatible Constructor
 		public function pluginbase_main(){$this->__construct();}
