@@ -9,7 +9,7 @@ Author: Nabtron
 Author URI: http://nabtron.com
 Min WP Version: 4.4
 Max WP Version: 4.5
-*/ 
+*/
 
 // search and replace 'pluginbase' with your own WordPress plugins keyword
 
