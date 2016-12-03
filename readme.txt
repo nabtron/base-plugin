@@ -8,7 +8,7 @@ Stable tag: 0.1
 License: gnu gpl2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-plugin base for wordpress plugins to be modified
+Plugin base for wordpress plugins to be modified.
 
 == Description ==
 
